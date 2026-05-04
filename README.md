@@ -70,6 +70,15 @@ Engenharia não pode ser gargalo. Trabalho pra que ela vire acelerador.
 <img alt="GitKraken"  src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" />
 </p>
 
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DavidgFernandes/DavidgFernandes/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidgFernandes/DavidgFernandes/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DavidgFernandes/DavidgFernandes/output/github-snake.svg" />
+</picture>
+
 ---
 
 <h3 align="center">Como chegar</h3>
@@ -81,5 +90,3 @@ Engenharia não pode ser gargalo. Trabalho pra que ela vire acelerador.
 </p>
 
 <p align="center"><sub>Repos públicos aqui são uma fração do trabalho. A maior parte está em orgs privadas.</sub></p>
-
-<!-- padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding padding -->
